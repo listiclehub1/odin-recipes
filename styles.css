@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe {
+  background-color: aliceblue;
+  border: 5px solid rgb(0, 115, 255);
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin: 20px auto;
+  width: 800px;
+}
+
+.recipe h1 {
+  text-transform: uppercase;
+  text-align: center;
+  background-color: lightblue;
+  border: 2px outset;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.recipe-img {
+  text-align: center;
+}
